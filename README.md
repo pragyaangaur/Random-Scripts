@@ -1,4 +1,4 @@
-# Utility-Box
+# Random-Scripts
 Scripts I wrote to automate the boring and the fun stuff
 
 ## 1. Email Outreach Automation Script

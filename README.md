@@ -1,7 +1,7 @@
 # Random-Scripts
 Scripts I wrote to automate the boring and the fun stuff
 
-## 1. Email Outreach Automation Script
+## 1. Email Outreach Automation
 
 Simple Python script to send personalized emails using a CSV file and a template. Useful for structured outreach such as internship or research applications.
 
